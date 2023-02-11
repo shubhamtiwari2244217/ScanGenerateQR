@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,9 +24,31 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.addbtn{
+  margin-left: 10px;
+}
+.readaddbtn{
+  margin-left: 10px;
+  width: 124px;
+}
+.qrimg{
+  margin:14px;
+  height: 200px;
+  width:200px;
+}
+.createQrBorder{
+  align-items: center;
+  justify-content: center;
+  margin:2px;
+  height: 90%;
+  width: 100%;
+  border: 2px solid red;
+}
 .App-link {
   color: #61dafb;
+}
+.pData{
+  font-size: 24px;
 }
 
 @keyframes App-logo-spin {
