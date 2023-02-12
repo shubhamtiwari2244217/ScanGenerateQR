@@ -24,7 +24,7 @@ const ReadQr = () => {
 
   return (
     <div className="col-md-6 ">
-      <div className="card m-3 justify-content-space-between">
+      <div className="card m-3 border-0 justify-content-space-between">
         <h2 className="text-center mb-4">Scan QR Code</h2>
 
         <div className="card-body d-flex flex-column align-items-center justify-content-center">
