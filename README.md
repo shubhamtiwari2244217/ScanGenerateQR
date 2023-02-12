@@ -46,13 +46,24 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Support Me
 [Donate Us](https://pages.razorpay.com/pl_HqEs5KZyzOT3RW/view)
-Paytm Details
-Paytm Number: 9717371868
-UPI: pst6394474917@apl
-Account Number: 916394474917
-Account Holder: Shubham Tiwari
-IFSC Code: PYTM0123456
-Bank: Paytm Payment Bank Limited
+# Payment Information
+
+We accept payments through Paytm, UPI and bank transfer. Below is the payment information:
+
+## Paytm 
+- Phone Number: 9717371868
+
+## UPI
+- ID: pst6394474917@apl
+
+## Bank Transfer
+- Account Number: 916394474917
+- Account Holder: Shubham Tiwari
+- IFSC Code: PYTM0123456
+- Bank: Paytm Payment Bank Limited
+
+Please use the above information to make the payment. Thank you for your support!
+
 
 
 ### Social Media
