@@ -46,13 +46,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Support Me
 [Donate Us](https://pages.razorpay.com/pl_HqEs5KZyzOT3RW/view)
- Paytm = 9717371868
- UPI = pst6394474917@apl
- Account Number = 916394474917
- Account Holder = Shubham Tiwari
- IFSC Code = PYTM0123456
- Bank = Paytm Payment Bank Limited
-
+Paytm Details
+Paytm Number: 9717371868
+UPI: pst6394474917@apl
+Account Number: 916394474917
+Account Holder: Shubham Tiwari
+IFSC Code: PYTM0123456
+Bank: Paytm Payment Bank Limited
 
 
 ### Social Media
